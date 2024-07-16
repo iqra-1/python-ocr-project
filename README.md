@@ -13,7 +13,6 @@ This project demonstrates how to use Python with the Tesseract OCR engine to ext
   - [Performing OCR](#performing-ocr)
   - [Handling Exceptions](#handling-exceptions)
 - [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -101,8 +100,6 @@ After running the script, the extracted text will be saved in the output_texts d
 ```
 This is a sample text extracted from the image.
 ```
-### Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
@@ -113,5 +110,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 2. **Include Example Images**: Add a sample image in the `input_images` directory and adjust the example image link.
 3. **Update License**: Ensure the `LICENSE` file is added to your repository if you choose to include licensing information.
 
-This README file provides a comprehensive tutorial for your project, guiding users through installation, usage, and understanding of the code. It also includes instructions for contributing and licensing, making it a professional and user-friendly documentation for your project.
+This README file provides a comprehensive tutorial for your project, guiding users through installation, usage, and understanding of the code. It also includes instructions for licensing, making it a professional and user-friendly documentation for your project.
 
