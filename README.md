@@ -29,7 +29,7 @@ Optical Character Recognition (OCR) is a technology used to convert different ty
    git clone https://github.com/your-username/ocr-project.git
    cd ocr-project
 
-3. **Install Python Dependencies:**
+3. **Install Python Dependencies**:
    ```sh
    pip install pytesseract pillow
 
@@ -102,7 +102,7 @@ This is a sample text extracted from the image.
 ```
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/iqra-1/python-ocr-project/blob/main/LICENSE.) file for more details.
 
 ### How to Use This README
 
