@@ -101,12 +101,11 @@ After running the script, the extracted text will be saved in the output_texts d
 ```
 This is a sample text extracted from the image.
 ```
-
+### Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-
 
 ### How to Use This README
 
