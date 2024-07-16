@@ -22,7 +22,7 @@ Optical Character Recognition (OCR) is a technology used to convert different ty
 ## Installation
 
 1. **Install Tesseract-OCR**:
-   * Download and install Tesseract from [here](https://github.com/tesseract-ocr/tesseract).
+   - Download and install Tesseract from [here](https://github.com/tesseract-ocr/tesseract).
    
 2. **Clone the Repository**:
    ```sh
@@ -107,14 +107,14 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ## How to Use This README
 
 1. **Replace Placeholders**: 
-   * Replace `https://github.com/your-username/ocr-project.git` with your actual GitHub repository URL.
+   - Replace `https://github.com/your-username/ocr-project.git` with your actual GitHub repository URL.
 
 2. **Include Example Images**: 
-   * Add a sample image in the `input_images` directory.
-   * Adjust the example image link in the README if needed.
+   - Add a sample image in the `input_images` directory.
+   - Adjust the example image link in the README if needed.
 
 3. **Update License**: 
-   * If you choose to include licensing information, ensure the `LICENSE` file is added to your repository.
+   - If you choose to include licensing information, ensure the `LICENSE` file is added to your repository.
 
 This README file provides a comprehensive tutorial for your project, guiding users through installation, usage, and understanding of the code. It also includes instructions for licensing, making it a professional and user-friendly documentation for your project.
 
