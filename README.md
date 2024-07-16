@@ -103,3 +103,16 @@ This is a sample text extracted from the image.
 ```
 
 
+### License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+```
+
+### How to Use This README
+
+1. **Replace Placeholders**: Replace `https://github.com/your-username/ocr-project.git` with your actual GitHub repository URL.
+2. **Include Example Images**: Add a sample image in the `input_images` directory and adjust the example image link.
+3. **Update License**: Ensure the `LICENSE` file is added to your repository if you choose to include licensing information.
+
+This README file provides a comprehensive tutorial for your project, guiding users through installation, usage, and understanding of the code. It also includes instructions for contributing and licensing, making it a professional and user-friendly documentation for your project.
+```
